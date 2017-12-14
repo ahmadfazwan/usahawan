@@ -12,7 +12,9 @@
     "uniqCompNum": 19,
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
