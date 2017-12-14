@@ -98,7 +98,7 @@
           },
           "title": "<i>AL-KARIIM</i>",
           "text": "<b>KAMPUNG STYLE<br></b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PRODUCT&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html#features1-g\" data-toolbar=\"-mbrBtnMove\">CARA MAKAN&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page1.html#slider-8\" data-toolbar=\"-mbrBtnMove\">PRODUCT&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page4.html#features1-g\" data-toolbar=\"-mbrBtnMove\">CARA MAKAN&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
           ],
